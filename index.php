@@ -11,7 +11,8 @@ $title_loai = $tintuc['title_loai'];
 $title_theloai = $tintuc['title_theloai'];
 $tins = $tintuc['danhmuctin'];
 $Category = $tintuc['category'];
-//print_r($Category);
+
+print_r($Category);
 ?>
 <!DOCTYPE html>
 <html lang="en">
